@@ -24,4 +24,4 @@ python3 example.py
 
 ## Sample output from example.py
 
-[img-1](plots/chaotic_time_series.pdf)
+![img-1](plots/chaotic_time_series.pdf)
