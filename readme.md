@@ -11,6 +11,8 @@ The implementation uses `pytorch` and `numpy`.
 
 Requirements are in `requirements.txt`. Note that they also include the requirements for the example. `torchdiffeq` must be installed manually from [GitHub](https://github.com/rtqichen/torchdiffeq) in order to run the example.
 
+Additionally, to display LaTex fonts in the plots, a LaTex backend is necessary.
+
 
 ## Usage
 
@@ -24,4 +26,4 @@ python3 example.py
 
 ## Sample output from example.py
 
-![img-1](plots/chaotic_time_series.pdf)
+![img-1](plots/chaotic_time_series.png)
