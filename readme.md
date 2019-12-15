@@ -1,6 +1,6 @@
 uncertaintypropagation
 
-# Uncertainty propagation for nonlinear functions
+# Uncertainty propagation
 
 This is an implementation of three uncertainty propagation methods: Linear uncertainty propagation (e.g. as used in the (Extended) Kalman Filter), unscented transform (e.g. as used in the Unscented Kalman Filter), and a quadratic uncertainty propagation method.
 
@@ -22,6 +22,7 @@ Uncertainty propagation is there demonstrated for a time series: a chaotic attra
 ```
 python3 example.py
 ```
+
 
 
 ## Sample output from example.py
